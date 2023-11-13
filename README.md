@@ -1,1 +1,1 @@
-# Car-Distance-Sensor
+Created a car sensor using an ultrasonic distance sensor, buzzer, LEDs and resistors have the purpose of acting like a sensor that indicates how close the back of the car is to an obstacle. This was done using C++ and programmed to activate corresponding LEDs with specific distances.
